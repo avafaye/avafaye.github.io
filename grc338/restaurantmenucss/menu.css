@@ -1,0 +1,53 @@
+/*CSS DOCUMENT*/
+
+body{
+	
+	background-color: rgb(252,248,245);
+	font-family: sans-serif;
+	padding-bottom: 1.5em;
+	
+}
+
+ul{
+	margin-bottom:-1em;
+
+}
+
+h1{
+	color: rgb(110,166,193);
+	text-align: center;
+	font-size:2.5em;
+	margin-top: 1.7;
+}
+
+h2{
+	color: rgb(110,166,193);
+	text-align: center;
+	font-size:2em;
+	font-weight: lighter;
+}
+
+h3{
+	padding-left: 1em;
+	color: rgb(77,116,135);
+	padding-top: 1.5em;
+}
+
+h4{
+	color: rgb(48, 48, 48);
+	margin-bottom: .5em;
+	
+}
+
+p{
+	color: rgb(48, 48, 48);
+	margin: .05em;
+}
+
+.price{
+	font-style: italic;
+	margin-top: .5em;
+
+	
+}
+
