@@ -1,0 +1,127 @@
+/*CSS DOCUMENT*/
+
+body{
+	font-family: mr-eaves-modern;
+}
+#logo{
+	width:10em;
+	padding-left: 0.5em;
+
+}
+nav, ul, li, a {
+	list-style: none;
+	display: inline;
+	margin-right: 1em;
+	text-decoration: none;
+	color: rgb(38,38,38);
+	
+}
+
+h1{
+	float: left;
+}
+nav{
+	float: right;
+	padding-top: 2em;
+}
+.intro_image{
+	width: 100%;
+	filter: brightness(70%);
+
+}
+h2, .center{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: white;
+	
+}
+.center{
+	font-size: 1.3em;
+	padding-top: 7em;
+}
+h2{
+	font-size: 3em;
+}
+h3{
+	text-align: center;
+	font-size: 2.6em;
+	margin-top: 1.3em;
+	margin-bottom: 1em;
+}
+.exerpt{
+	text-align: center;
+	margin-right: 20em;
+	margin-left: 20em;
+	font-size: 1.3em;
+	line-height: 1.6em;
+	margin-top: 0em;
+	float:none;
+	clear: both;
+
+}
+.home{
+	margin-top: 2em;
+}
+.half_image{
+	width: 35%;
+	margin-left: 11em;
+	float: left;
+	margin-bottom: 2.4em;
+	margin-top: 2em;
+}
+footer{
+	
+	text-align: center;
+	height: 4em;
+}
+.stand_alone{
+	width: 45%;
+	height: 70%;
+	margin-left: 30em;
+	margin-top: 2em;
+}
+.section_name{
+	text-align: center;
+	padding-bottom: 0em;
+	margin-bottom: 1em;
+}
+
+.section_items{
+	list-style: none;
+	display: inline;
+
+}
+.main_menu{
+	margin:auto;
+	text-align: center;
+}
+.item_name, .location_name{
+	font-weight: 700;
+	font-style: normal;
+	font-size:1.3em;
+	line-height: 0em;
+}
+.item_description{
+	color: rgb(38,38,38);
+	font-size:1.1em;
+	line-height: 1.2em;
+}
+.item_price{
+	font-weight: 400;
+	font-style: italic;
+	padding-bottom: 1em;
+}
+hr{
+	width: 30%;
+	margin:bottom: 0em;
+}
+.location{
+	text-align: center;
+}
+
+
+
+
+
