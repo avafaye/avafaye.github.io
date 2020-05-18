@@ -1,0 +1,154 @@
+/*CSS DOCUMENT*/
+
+body{
+	font-family: mr-eaves-modern;
+	margin-right: .5em;
+	margin-left: .5em;
+}
+
+#logo{
+	width:5em;
+	padding-left: 0.2em;
+}
+
+nav, ul, li, a {
+	list-style: none;
+	display: inline;
+	text-decoration: none;
+	color: rgb(38,38,38);
+}
+
+.space{
+		margin-right: .3em;
+}
+
+h1{
+	float: left;
+}
+
+nav{
+	float: right;
+	display: inline;
+	padding-top:2.2em;
+	
+}
+
+.intro_image{
+	width: 100%;
+	filter: brightness(65%);
+}
+
+h2 {
+	position: absolute;
+	padding-left: 1.2em;
+	text-align: center;
+	transform: translate(0%, -50%);
+	color: white;
+	font-size: 2em;
+	padding-bottom:10em;
+	padding-top: 2em;
+}
+
+.culture{
+	padding-left: 1.5em;
+}
+
+.eat{
+	padding-right: 1em;
+}
+
+.growing{
+	padding-left: 3em;
+}
+
+h3{
+	text-align: center;
+	font-size: 2.6em;
+	margin-top: 1.3em;
+	margin-bottom: 1em;
+}
+
+.exerpt{
+	font-size: 1.3em;
+	line-height: 1.6em;
+	margin-top: 0em;
+	float:none;
+	clear: both;
+
+}
+
+.home{
+	margin-top: 2em;
+}
+
+.half_image{
+	width: 60%;
+	padding-bottom: 2em;
+	margin-left: 5em;
+
+}
+
+.stand_alone{
+	height: 70%;
+	padding-left:1.7em;
+}
+
+.section_name{
+	text-align: center;
+	font-size: 2em;
+	padding-bottom: 0em;
+	margin-bottom: .3em;
+}
+
+.section_items{
+	list-style: none;
+	display: inline;
+
+}
+
+.main_menu, .exerpt, .stand_alone{
+	margin-left: 1em;
+	margin-right: 1em;
+	text-align: center;
+}
+
+.item_name, .location_name{
+	font-weight: 700;
+	font-style: normal;
+	font-size:1.3em;
+	line-height: 0em;
+}
+
+.item_description{
+	font-size:1.1em;
+	line-height: 1.5em;
+}
+
+.item_price{
+	font-weight: 400;
+	font-style: italic;
+	padding-bottom: 1em;
+}
+
+.item_price, .item_description{
+	color: rgb(40,40,40);
+}
+
+.location{
+	text-align: center;
+}
+
+hr{
+	width: 40%;
+	margin-bottom: 0em;
+}
+
+footer{
+	margin-top:2.5em;
+	margin-bottom:0em;
+	text-align: center;
+	height: 4em;
+}
+
+
+
