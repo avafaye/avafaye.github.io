@@ -2,8 +2,8 @@
 
 body{
 	font-family: mr-eaves-modern;
-	margin-right: .5em;
-	margin-left: .5em;
+	margin-right: .75em;
+	margin-left: .75em;
 }
 
 #logo{
@@ -16,6 +16,7 @@ nav, ul, li, a {
 	display: inline;
 	text-decoration: none;
 	color: rgb(38,38,38);
+
 }
 
 .space{
@@ -29,36 +30,25 @@ h1{
 nav{
 	float: right;
 	display: inline;
-	padding-top:2.2em;
-	
+	padding-top:2.2em;	
 }
 
 .intro_image{
 	width: 100%;
-	filter: brightness(65%);
+	filter: brightness(65%);	
 }
+
 
 h2 {
 	position: absolute;
 	padding-left: 1.2em;
 	text-align: center;
-	transform: translate(0%, -50%);
+	transform: translate(5%, -47%);
 	color: white;
 	font-size: 2em;
 	padding-bottom:10em;
 	padding-top: 2em;
-}
-
-.culture{
-	padding-left: 1.5em;
-}
-
-.eat{
-	padding-right: 1em;
-}
-
-.growing{
-	padding-left: 3em;
+	width: 8em;
 }
 
 h3{
@@ -77,20 +67,16 @@ h3{
 
 }
 
-.home{
-	margin-top: 2em;
-}
-
 .half_image{
 	width: 60%;
 	padding-bottom: 2em;
-	margin-left: 5em;
+	margin-left: auto;
+    margin-right: auto;
 
 }
 
 .stand_alone{
 	height: 70%;
-	padding-left:1.7em;
 }
 
 .section_name{
@@ -103,12 +89,9 @@ h3{
 .section_items{
 	list-style: none;
 	display: inline;
-
 }
 
-.main_menu, .exerpt, .stand_alone{
-	margin-left: 1em;
-	margin-right: 1em;
+.main_menu, .exerpt, .stand_alone , .intro_content, .home, .about_content{
 	text-align: center;
 }
 
